@@ -1,2 +1,2 @@
 # node-mongo-ema-jhon
-## Techonology used Nodejs, Expess
+## Techonology used Nodejs, Expess, Heroku
